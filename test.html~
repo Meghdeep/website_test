@@ -49,7 +49,7 @@ Note: Please use our back link in your site (webthemez.com)
 <script type="text/javascript" src="js/Backstretch.js"></script>
 <script type="text/javascript" src="js/jquery.countdown.js"></script>
 <script type="text/javascript" src="js/global.js"></script>
-<script type="text/javascript" src="js/test.js"></script>
+<script type="text/javascript" src="js/second_timer.js"></script>
 
 </body>
 </html>

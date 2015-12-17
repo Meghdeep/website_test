@@ -1,23 +1,12 @@
 window.onload = function() 
 {
-    check();
+    setTimeout(check,3000);
 }
 
 function check()
 {   
-    var id;
-    var current_date = new Date();
-    var end_date = new Date("December 19, 2015 00:00:00");
-    time_left = (end_date - current_date);
-    //alert( time_left );
-    if( time_left <= 0 )
-    {
-        execute();
-    }
-    else
-    {
-        id = setTimeout(check, 1000);
-    }
+    alert("hi");
+    document.getElementById("Content").innerHTML = "";
 }
 
 function execute()
