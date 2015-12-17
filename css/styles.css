@@ -22,6 +22,13 @@ body {
 .ie body {
 	filter: dropshadow(color=#000000, offx=0, offy=1);	
 }
+
+iframe {
+    display:block;
+    text-align: center;
+    margin: auto;
+}
+
 h1 {
 	font-size:68px;
 	letter-spacing:-2px;  

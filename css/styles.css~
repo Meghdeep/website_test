@@ -6,7 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,600);
 @import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
-@import url(https://fonts.googleapis.com/css?family=Alegreya:900);
+@import url(https://fonts.googleapis.com/css?family=Alegreya:700);
 body {
 	color:#FFF; 
 	font-family: 'Open Sans', sans-serif;
@@ -22,6 +22,13 @@ body {
 .ie body {
 	filter: dropshadow(color=#000000, offx=0, offy=1);	
 }
+
+iframe {
+    display:block;
+    text-align: center;
+    margin: 0 0%;
+}
+
 h1 {
 	font-size:68px;
 	letter-spacing:-2px;  
