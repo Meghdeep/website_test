@@ -6,6 +6,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 */
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,600);
 @import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
+@import url(https://fonts.googleapis.com/css?family=Alegreya:700);
 body {
 	color:#FFF; 
 	font-family: 'Open Sans', sans-serif;
@@ -27,9 +28,21 @@ h1 {
 	text-align:center; 
 	padding-top:30px;
 	font-weight:700;
+	/*font-family: 'Lobster Two', cursive;*/
+	font-family: 'Alegreya', serif;
+	text-shadow: 2px 2px rgba(12, 11, 11, 0.56);
+}
+
+.header1 {
+	font-size:68px;
+	letter-spacing:-2px;  
+	text-align:center; 
+	padding-top:30px;
+	font-weight:700;
 	font-family: 'Lobster Two', cursive;
 	text-shadow: 2px 2px rgba(12, 11, 11, 0.56);
 }
+
 .ie h1 {
 	filter: dropshadow(color=#000000, offx=0, offy=3);
 	padding-bottom:12px;	

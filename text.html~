@@ -1,0 +1,24 @@
+<!--
+Author: WebThemez
+Author URL: http://webthemez.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+Note: Please use our back link in your site (webthemez.com)
+-->
+<!DOCTYPE HTML>
+<!--[if lt IE 7 ]> <html lang="en" class="ie ie6"> <![endif]--> 
+<!--[if IE 7 ]>	<html lang="en" class="ie ie7"> <![endif]--> 
+<!--[if IE 8 ]>	<html lang="en" class="ie ie8"> <![endif]--> 
+<!--[if IE 9 ]>	<html lang="en" class="ie ie9"> <![endif]--> 
+<!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Test</title>
+<script type="text/javascript" src="js/second_timer.js"></script>
+</head>
+
+<body id="home">
+<h1 id="header1">What is Behind Curtain #1 ? Find out on Sreya's Birthday !!!<h1>
+
+</body>
+</html>
