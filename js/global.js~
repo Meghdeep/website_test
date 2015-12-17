@@ -15,7 +15,7 @@ $( function() {
         alert("Done");
         $(this.el).addClass('ended');
       } 
-    });
+ });
 	
 	$('.countdown.styled').countdown({
 	  date: endDate,
