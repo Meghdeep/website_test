@@ -41,5 +41,6 @@ function execute()
     
     iframe.setAttribute("src", link);
     parent.replaceChild(iframe, child);
+    iframe.contentWindow.focus();
     //document.getElementById("header1").innerHTML = "Happy Birthday Sreya !!!";
 }
