@@ -13,8 +13,8 @@ Note: Please use our back link in your site (webthemez.com)
 <!--[if !IE]><!--> <html lang="en"> <!--<![endif]-->
 <head>
 <meta charset="utf-8">
-<title>Happy Birthday Sreya !!! :D</title>
-<meta name="description" content="Sreya's Birthday Surprise Page !">
+<title>Trendset - Coming Soon!!!</title>
+<meta name="description" content="Trendset Page under construction">
 <meta http-equiv="X-UA-Compatible" content="chrome=1">
 <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=PT+Sans+Narrow:regular,bold"> 
 <link rel="stylesheet" type="text/css" href="css/styles.css">
@@ -23,26 +23,29 @@ Note: Please use our back link in your site (webthemez.com)
 <body id="home">
 <div id="Header">
 <div class="wrapper">
-	<h1 id="header1">Could This BE More Dramatic ? :P</h1>	
+	<h1>Trendset</h1>	
 	</div>
 </div>
 <div id="Content" class="wrapper"> 
-<div class="countdown styled" id="countdown_div"></div> 
-<h2 class="intro" id="header2">It's going to be the Birthday of the Awesome Sreya Dutta Roy soon. Stay tuned for the Surprise as the Timer Counts Down !</h2>
-	<span class="tempBy">Wish Sreya a Happy Birthday on Social Media : </span>
+<div class="countdown styled"></div> 
+<h2 class="intro">Our website is under construction. Stay tuned for something amazing!. Subscribe to be notified.</h2>
+<div id="subscribe"> 
+	<form action="" method="post" onsubmit="">
+		<p><input name="" value="Enter your e-mail" type="text" id=""/>
+		<input type="button" value="Submit"/></p>
+	</form>
 	<div id="socialIcons">
 		<ul> 
-			<li><a target="_blank" href="404.html" title="Twitter" class="twitterIcon"></a></li>
-			<li><a target="_blank" href="https://www.facebook.com/sreya.duttaroy" title="facebook" class="facebookIcon"></a></li>
-			<li><a target="_blank" href="https://in.linkedin.com/in/sreya-dutta-roy-5ba74272" title="linkedIn" class="linkedInIcon"></a></li>
-			<li><a target="_blank" href="404.html" title="Pintrest" class="pintrestIcon"></a></li>
+			<li><a href="" title="Twitter" class="twitterIcon"></a></li>
+			<li><a href="" title="facebook" class="facebookIcon"></a></li>
+			<li><a href="" title="linkedIn" class="linkedInIcon"></a></li>
+			<li><a href="" title="Pintrest" class="pintrestIcon"></a></li>
 		</ul>
 	</div>
-	<div id="credits_div" style = "display:none">
-    	<span class="tempBy">Credits: <a href="credits.html">Contributors</a></span>
-    </div>
 </div>
+<span class="tempBy">Template by: <a href="credits.html" alt="webthemez">WebThemez.com</a></span>
 </div>
+
 <div id="overlay"></div>
 
 <!--Scripts-->
@@ -50,7 +53,6 @@ Note: Please use our back link in your site (webthemez.com)
 <script type="text/javascript" src="js/Backstretch.js"></script>
 <script type="text/javascript" src="js/jquery.countdown.js"></script>
 <script type="text/javascript" src="js/global.js"></script>
-<script type="text/javascript" src="js/second_timer.js"></script>
 
 </body>
 </html>

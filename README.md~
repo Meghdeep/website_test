@@ -19,7 +19,3 @@ This is obviously where I've hidden the secret birthday surprise website I have 
  
  Theme Author - WebThemez
  Theme Name - Trendset-coming-soon-responsive-theme
- 
-###Notes :
-The Index Page's HTML Elements are changed via Javascript after the countdown expires instead of openning a new window. This allows for a smoother feel.
- 

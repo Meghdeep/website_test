@@ -38,7 +38,7 @@ Note: Please use our back link in your site (webthemez.com)
 			<li><a target="_blank" href="404.html" title="Pintrest" class="pintrestIcon"></a></li>
 		</ul>
 	</div>
-	<div id="credits_div" style = "display:none">
+	<div>
     	<span class="tempBy">Credits: <a href="credits.html">Contributors</a></span>
     </div>
 </div>
