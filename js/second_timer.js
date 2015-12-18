@@ -29,7 +29,7 @@ function execute()
     
     //<iframe width="1280" align="middle" height="720" src="http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1">
     //</iframe> 
-    var link = "http://www.youtube.com/embed/W-G0zMEJ4Uc?autoplay=1"    // Put the Link to the Video Here !!!
+    var link = "http://www.youtube.com/embed/W-G0zMEJ4Uc"    // Put the Link to the Video Here !!!
     var iframe = document.createElement('iframe');
     iframe.frameBorder=0;
     iframe.width="480px";
