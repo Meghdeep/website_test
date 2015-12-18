@@ -7,7 +7,7 @@ window.onload = function()
 function check()
 {   
     var current_date = new Date();
-    var end_date = new Date("December 19, 2015 00:00:00");
+    var end_date = new Date("December 18, 2015 00:00:00");
     time_left = (end_date - current_date);
     //alert( time_left );
     if( time_left <= 0 )
@@ -29,7 +29,7 @@ function execute()
     
     //<iframe width="1280" align="middle" height="720" src="http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1">
     //</iframe> 
-    var link = "http://www.youtube.com/embed/XGSy3_Czz8k?autoplay=1"    // Put the Link to the Video Here !!!
+    var link = "http://www.youtube.com/embed/W-G0zMEJ4Uc?autoplay=1"    // Put the Link to the Video Here !!!
     var iframe = document.createElement('iframe');
     iframe.frameBorder=0;
     iframe.width="480px";
