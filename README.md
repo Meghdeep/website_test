@@ -18,6 +18,7 @@ This is obviously where I've hidden the secret birthday surprise website I have 
  
 ###Theme Details :
 Theme Author - WebThemez
+<br>
 Theme Name - Trendset-coming-soon-responsive-theme
  
 ###Notes :
